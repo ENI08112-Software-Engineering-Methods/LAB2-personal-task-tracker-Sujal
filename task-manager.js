@@ -1,1 +1,3 @@
-console.log("Feature for adding tasks");
+function addTask(task) {
+console.log("Task added: " + task);
+}
