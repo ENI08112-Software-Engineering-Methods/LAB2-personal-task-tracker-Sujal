@@ -1,1 +1,4 @@
-console.log("Feature for marking tasks as completed");
+function addTask(task) {
+console.log("Task added: " + task);
+}
+
